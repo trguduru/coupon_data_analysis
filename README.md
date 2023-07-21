@@ -22,6 +22,12 @@
    * Pie plots to understand the rate of coupons acceptance
    * Bar plots to know how a feature is with its values
    * Count Plots to know the categorical counts pattern
+
+   Here are few examples of such visualizations
+    ![](images/accepted_coupon.png)
+    ![](images/accepted_age.png)
+    ![](images/accepted_gender.png)
+    ![](images/driving.png)
   
 ## Conclusion
    This project demonstrated usage of various python libraries to do data analysis and visualizations. There are some other libraries to consider as well, for example [plotly](https://plotly.com/python/) for great visualizations.
